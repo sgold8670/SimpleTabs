@@ -1,0 +1,9 @@
+/* CSS Document */
+
+#tabs {overflow:hidden; zoom:1;}
+#tabs li {display:block; list-style:none; margin:0; padding:0; float:left;}
+#tabs li a {display:block; padding:2px 5px; border:2px solid #ccc; border-bottom:0 none;text-align:center; }
+#tabs li a.current {background:#ccc; color:#000;}
+
+.tab-section {padding:10px; border:2px solid #ccc;}
+
